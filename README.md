@@ -15,13 +15,13 @@ Write HTML pages and corresponding JavaScript to perform the following:
 ### Document Object Model Exercises:
 
 - Modify the Page 2 HTML starter file to add a <DIV> at the top of the page with an ID of 'header'
-- Create a button that when clicked will print information about the current document in the 'header' of the page. 
+- Create a button that when clicked will print information about the current document in the 'header' of the page.
 ``` Page Title, Page Address, Last Modified ```
 
 See sample image to see expected output.
 
 /*
 
-	KEY: Nice Job. But output stacking up. See my 
+	KEY: Nice Job. But output stacking up. See my notes
 
 */
