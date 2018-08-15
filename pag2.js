@@ -1,11 +1,13 @@
 function pageinfo() {
-    document.write(document.title);
-    document.write(document.location);
-    document.write(document.lastModified);
+    document.write("Doc Title: "+document.title + "<br/>");
+    document.write("Doc Location: " + document.location + "<br/>");
+    document.write("Doc Last Modified: " + document.lastModified + "<br/>");
 
-}document.write(window.innerHeight);
+}
+
+document.write("Doc Ht: " +window.innerHeight);
 document.write(",");
-document.writeln(window.innerWidth);
+document.writeln("Doc Width: " + window.innerWidth);
 
 document.writeln(" Page path is " + window.location.href);
 
